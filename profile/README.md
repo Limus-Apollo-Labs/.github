@@ -50,6 +50,6 @@ dials out to, so there are no open inbound ports.
 
 ### Work with us
 
-**[Book a discovery call →](https://your-booking-link)**
+**[Book a discovery call →](hello@limusapollo.com)**
 
 <sub>© Limus Apollo Labs</sub>
